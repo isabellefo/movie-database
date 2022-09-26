@@ -13,8 +13,6 @@ export const MovieInformation = styled.div`
   }
   img {
     position: relative;
-    width: 100%;
-    height: 100%;
     object-fit: contain;
   }
   @media (max-width: 665px) {
